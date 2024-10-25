@@ -1,4 +1,4 @@
-module theZenithSword/jsonutils
+module github.com/theZenithSword/jsonutils
 
 go 1.18
 
