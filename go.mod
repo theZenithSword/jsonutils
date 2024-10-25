@@ -1,4 +1,4 @@
-module yunion.io/x/jsonutils
+module theZenithSword/jsonutils
 
 go 1.18
 
